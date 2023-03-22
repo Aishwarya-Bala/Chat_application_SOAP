@@ -1,9 +1,5 @@
 =======================1/6============================
-Title: SOAP Chat, web service coursework. (Chatter)
-Author: Gary Read
-Student Number: 662193
-Instution: Swansea University, College of Science.
-Contact: garyyread[at]gmail[dot]com
+Title: SOAP Chat
 
 =======================2/6============================
 Running projects from Netbeans:
